@@ -1,0 +1,36 @@
+{
+  "name": "gitattributes",
+  "version": "1.0.0",
+  "description": "Quickly add reasonml and rescript attributes to your project",
+  "main": "index.sh",
+  "bin": "index.sh",
+  "scripts": {
+    "start": "sh index.sh",
+    "release:major": "changelog -M && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version major && git push origin && git push origin --tags",
+    "release:minor": "changelog -m && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version minor && git push origin && git push origin --tags",
+    "release:patch": "changelog -p && git add CHANGELOG.md && git commit -m 'updated CHANGELOG.md' && npm version patch && git push origin && git push origin --tags",
+    "release": "npmpub"
+  },
+  "keywords": [
+    "gitattributes",
+    "attributes",
+    "reason",
+    "reasonml",
+    "ocaml",
+    "cli",
+    "rescript"
+  ],
+  "author": "Alain Armand",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idkjs/gitattributes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idkjs/gitattributes/issues"
+  },
+  "homepage": "https://github.com/idkjs/gitattributes#readme",
+  "devDependencies": {
+    "npmpub": "^5.0.0"
+  }
+}
