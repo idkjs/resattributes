@@ -1,6 +1,6 @@
 [![NPM version](https://img.shields.io/npm/v/resattributes.svg?style=flat)](https://www.npmjs.com/package/resattributes)
 
-# resattributes
+# [resattributes](https://git.io/resattributes)
 
 Generates or appends [ReasonML](https://git.io/reasonml) and [Rescript](https://rescript-lang.org/) `.gitattributes`.
 
