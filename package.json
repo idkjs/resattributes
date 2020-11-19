@@ -1,5 +1,5 @@
 {
-  "name": "gitattributes",
+  "name": "resattributes",
   "version": "1.0.0",
   "description": "Quickly add reasonml and rescript attributes to your project",
   "main": "index.sh",
@@ -12,7 +12,7 @@
     "release": "npmpub"
   },
   "keywords": [
-    "gitattributes",
+    "resattributes",
     "attributes",
     "reason",
     "reasonml",
@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idkjs/gitattributes.git"
+    "url": "git+https://github.com/idkjs/resattributes.git"
   },
   "bugs": {
-    "url": "https://github.com/idkjs/gitattributes/issues"
+    "url": "https://github.com/idkjs/resattributes/issues"
   },
-  "homepage": "https://github.com/idkjs/gitattributes#readme",
+  "homepage": "https://github.com/idkjs/resattributes#readme",
   "devDependencies": {
     "npmpub": "^5.0.0"
   }
