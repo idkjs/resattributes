@@ -2,7 +2,7 @@
 
 # resattributes
 
-Generates or appends [ReasonML](https://git.io/reasonml) and [Rescript](https://rescript-lang.org/) `.resattributes`.
+Generates or appends [ReasonML](https://git.io/reasonml) and [Rescript](https://rescript-lang.org/) `.gitattributes`.
 
 ```sh
 npx resattributes
