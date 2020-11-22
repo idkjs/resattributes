@@ -23,8 +23,15 @@ Gets you:
 ![image](./attributes.png)
 
 
-See also [bsconfig.json](https://git.io/bsconfig.json)
+See also:
 
+[bsconfig.json](https://git.io/bsconfig.json)
+
+[resgitignore](https://github.com/idkjs/resgitignore)
+
+[mlxre](https://github.com/idkjs/mlxre)
+
+[Share on Twitter...](https://twitter.com/share?text=Quickly+generate+a+bsconfig.json+file+ for+reasonml+and+rescript+projects!+https://github.com/idkjs/bsconfig.json)
 Inspired by [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
 
 [Share on Twitter...](https://twitter.com/share?text=Quickly+add+reasonml+and+rescript+attributes+to+your+project+https://github.com/idkjs/resattributes)
