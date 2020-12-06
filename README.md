@@ -13,7 +13,7 @@ npx idkjs/resattributes
 Gets you:
 
 ```sh
-"# Tell github that .re and .rei files are Reason, sometimes recognized as C/C++"
+# Tell github that .re and .rei files are Reason, sometimes recognized as C/C++
 *.re linguist-language=Reason 
 *.rei linguist-language=Reason
 *.res linguist-language=ReScript
