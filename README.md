@@ -6,8 +6,6 @@ Generates or appends [ReasonML](https://git.io/reasonml) and [Rescript](https://
 
 ```sh
 npx resattributes
-# or
-npx idkjs/resattributes
 ```
 
 Gets you:
