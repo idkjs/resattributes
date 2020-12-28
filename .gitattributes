@@ -1,5 +1,7 @@
-"# Tell github that .re and .rei files are Reason, sometimes recognized as C/C++"
-*.re linguist-language=Reason 
+
+# Tell github that .re and .rei files are Reason, sometimes recognized as C/C++
+*.re linguist-language=Reason
 *.rei linguist-language=Reason
 *.res linguist-language=ReScript
 *.resi linguist-language=ReScript
+
