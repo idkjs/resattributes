@@ -1,6 +1,6 @@
 {
   "name": "resattributes",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Quickly add reasonml and rescript attributes to your project",
   "main": "index.sh",
   "bin": "index.sh",
